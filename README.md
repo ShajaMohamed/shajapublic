@@ -1,1 +1,2 @@
 # shajapublic
+public GIT test
